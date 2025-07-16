@@ -1,9 +1,4 @@
 streamlit
 pandas
-numpy
-openai
-matplotlib
-reportlab
-python-dotenv
-python-docx  # Added for Word report generation
 openpyxl
+google-generativeai
